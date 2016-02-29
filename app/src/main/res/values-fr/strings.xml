@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chronomètre</string>
+    <string name="startText">Démarrer</string>
+    <string name="resetText">Réinitialiser</string>
+    <string name="stopText">Arrêter</string>
+</resources>

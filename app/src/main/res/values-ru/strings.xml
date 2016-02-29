@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cекундомер</string>
+    <string name="startText">Начало</string>
+    <string name="resetText">Сброс</string>
+    <string name="stopText">Стоп</string>
+</resources>

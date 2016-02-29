@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cronometru</string>
+    <string name="startText">start</string>
+    <string name="resetText">reset</string>
+    <string name="stopText">stop</string>
+</resources>
